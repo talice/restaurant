@@ -136,7 +136,7 @@ h6{
 
 .menu-heading, 
 .beermenu-heading{
-	font-family: 'Fairview';
+	font-family: 'fairviewregular';
 	font-size: 40px;
 	color: white;
 	text-transform: uppercase;
@@ -220,7 +220,7 @@ h6{
 	
 }
 .nav-location{
-		font-family: 'Fairview';
+		font-family: 'fairviewregular';
 }
 
 .masthead{
@@ -279,7 +279,7 @@ h6{
 	float: right;
 	padding-top: 90px;
 	margin-right: 0;
-	font-family: 'Fairview', cursive;
+	font-family: 'fairviewregular', sans-serif;
 	font-size: 32px;
 }
 
